@@ -30,10 +30,17 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Screen Shot
 
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+        <polygon points="10,10 190,10 90,180" fill="BLue" />
+        <text x="100" y="70" font-size="60" text-anchor="middle" fill="white">SGO</text>
+      </svg>
+
 
 # Links
 
 Github Repository  
 https://github.com/stuartgosborn/hw10-logo-generator  
 
-Video Demonstration
+Video Demonstration  
+https://app.screencastify.com/v3/watch/u2OUyj1V1UqTyU9R2tfn
+

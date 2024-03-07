@@ -1,4 +1,4 @@
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-        <polygon points="10,10 190,10 90,180" fill="red" />
-        <text x="100" y="70" font-size="60" text-anchor="middle" fill="white">RED</text>
+        <polygon points="10,10 190,10 90,180" fill="BLue" />
+        <text x="100" y="70" font-size="60" text-anchor="middle" fill="white">SGO</text>
       </svg>
